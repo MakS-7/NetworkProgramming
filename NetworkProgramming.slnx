@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/DZ_1/">
+    <Project Path="ClientProgram/ClientProgram.csproj" Id="02d96f69-b0a7-4c7c-b707-f19812670e29" />
+    <Project Path="ServerProgram/ServerProgram.csproj" Id="fac3cb7d-19ed-4262-b911-b31116afb66e" />
+  </Folder>
+</Solution>
