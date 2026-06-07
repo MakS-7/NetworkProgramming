@@ -3,4 +3,10 @@
     <Project Path="ClientProgram/ClientProgram.csproj" Id="02d96f69-b0a7-4c7c-b707-f19812670e29" />
     <Project Path="ServerProgram/ServerProgram.csproj" Id="fac3cb7d-19ed-4262-b911-b31116afb66e" />
   </Folder>
+  <Folder Name="/DZ_2/">
+    <Project Path="../lessons/Client/Client.csproj" />
+    <Project Path="../lessons/Core/Core.csproj" />
+    <Project Path="../lessons/HttpServer/HttpServer.csproj" />
+    <Project Path="TcpBookServer/TcpBookServer.csproj" Id="d508110e-b34a-4db1-a520-1a31bc4218fa" />
+  </Folder>
 </Solution>
